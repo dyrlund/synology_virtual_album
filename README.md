@@ -103,3 +103,7 @@ actions:
     alias: Set default Wallpanel profile
 mode: single
 ```
+
+## Original work
+This work is based on colings work: 
+colings/synology_virtual_album
